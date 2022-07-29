@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: aquamarine;
+    padding: 2%;
+}
+
+body{
+    background-color: rgb(33, 17, 47);
+}
+
+
+
+.slide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 50%;
+}
+
+
+.button{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
+
+.previous,
+.next{
+    padding-left: 10px;
+}
